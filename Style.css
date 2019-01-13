@@ -1,0 +1,44 @@
+
+h1 
+{ font-variant: small-caps; 
+    text-align: center;
+    font-family:"Trebuchet MS", sans-serif;
+}
+.Information
+{background-color: #EEEEEE;
+}
+body
+{font-size:125%;
+}
+a:hover
+{background-color: blue;
+    color:white;
+}
+th
+{ background-color:rgb(150, 0, 150);
+    color:#FFF;
+    font-weight:bold;
+}
+nav a 
+{ width: 50%; 
+    background-color: #800080;
+    color:#FFFFFF;
+    padding: 8px:
+    display: block;
+    text-decoration:none;
+}
+ul li
+{
+    list-style-type: none; 
+   margin-bottom: 0.5cm;
+  }
+ #AboutMe
+ { width:50%;
+    float:left;
+    padding-bottom:20px;
+    box-sizing:border-box;
+}
+
+#Recreation
+{ clear:left;
+}
